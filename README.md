@@ -8,7 +8,7 @@ message from local side.
 ## Available Scripts
 
 Writing from remote side.
-
+writing from local side.
 In the project directory, you can run:
 
 ### `npm start`
