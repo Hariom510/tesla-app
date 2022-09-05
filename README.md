@@ -5,7 +5,7 @@ message from remote side.
 
 ## Available Scripts
 
-Writing from remote side.
+Writing from remote side 2nd time.
 
 In the project directory, you can run:
 
